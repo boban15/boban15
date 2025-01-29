@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+*Hello viewer, I am just trying to learn programming. Nothing much to see here; my repositories don't yet contain much of note. However, you are welcome to peruse if you wish.*
 <!--
 **boban15/boban15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
